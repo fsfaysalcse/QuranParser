@@ -1,0 +1,689 @@
+{
+    "verses": [
+        {
+            "id": 32,
+            "verse_key": "2:25",
+            "chapter_id": 2,
+            "words": [
+                {
+                    "id": 27510,
+                    "line_number": 1,
+                    "text_uthmani": "وَبَشِّرِ"
+                },
+                {
+                    "id": 27511,
+                    "line_number": 1,
+                    "text_uthmani": "ٱلَّذِينَ"
+                },
+                {
+                    "id": 27512,
+                    "line_number": 1,
+                    "text_uthmani": "ءَامَنُوا۟"
+                },
+                {
+                    "id": 27513,
+                    "line_number": 1,
+                    "text_uthmani": "وَعَمِلُوا۟"
+                },
+                {
+                    "id": 27514,
+                    "line_number": 1,
+                    "text_uthmani": "ٱلصَّـٰلِحَـٰتِ"
+                },
+                {
+                    "id": 27515,
+                    "line_number": 1,
+                    "text_uthmani": "أَنَّ"
+                },
+                {
+                    "id": 27516,
+                    "line_number": 1,
+                    "text_uthmani": "لَهُمْ"
+                },
+                {
+                    "id": 27517,
+                    "line_number": 1,
+                    "text_uthmani": "جَنَّـٰتٍۢ"
+                },
+                {
+                    "id": 27518,
+                    "line_number": 2,
+                    "text_uthmani": "تَجْرِى"
+                },
+                {
+                    "id": 27519,
+                    "line_number": 2,
+                    "text_uthmani": "مِن"
+                },
+                {
+                    "id": 27520,
+                    "line_number": 2,
+                    "text_uthmani": "تَحْتِهَا"
+                },
+                {
+                    "id": 27521,
+                    "line_number": 2,
+                    "text_uthmani": "ٱلْأَنْهَـٰرُ ۖ"
+                },
+                {
+                    "id": 27523,
+                    "line_number": 2,
+                    "text_uthmani": "كُلَّمَا"
+                },
+                {
+                    "id": 27524,
+                    "line_number": 2,
+                    "text_uthmani": "رُزِقُوا۟"
+                },
+                {
+                    "id": 27525,
+                    "line_number": 2,
+                    "text_uthmani": "مِنْهَا"
+                },
+                {
+                    "id": 27526,
+                    "line_number": 2,
+                    "text_uthmani": "مِن"
+                },
+                {
+                    "id": 27527,
+                    "line_number": 2,
+                    "text_uthmani": "ثَمَرَةٍۢ"
+                },
+                {
+                    "id": 27528,
+                    "line_number": 3,
+                    "text_uthmani": "رِّزْقًۭا ۙ"
+                },
+                {
+                    "id": 27530,
+                    "line_number": 3,
+                    "text_uthmani": "قَالُوا۟"
+                },
+                {
+                    "id": 27531,
+                    "line_number": 3,
+                    "text_uthmani": "هَـٰذَا"
+                },
+                {
+                    "id": 27532,
+                    "line_number": 3,
+                    "text_uthmani": "ٱلَّذِى"
+                },
+                {
+                    "id": 27533,
+                    "line_number": 3,
+                    "text_uthmani": "رُزِقْنَا"
+                },
+                {
+                    "id": 27534,
+                    "line_number": 3,
+                    "text_uthmani": "مِن"
+                },
+                {
+                    "id": 27535,
+                    "line_number": 3,
+                    "text_uthmani": "قَبْلُ ۖ"
+                },
+                {
+                    "id": 27537,
+                    "line_number": 3,
+                    "text_uthmani": "وَأُتُوا۟"
+                },
+                {
+                    "id": 27538,
+                    "line_number": 3,
+                    "text_uthmani": "بِهِۦ"
+                },
+                {
+                    "id": 27539,
+                    "line_number": 3,
+                    "text_uthmani": "مُتَشَـٰبِهًۭا ۖ"
+                },
+                {
+                    "id": 27541,
+                    "line_number": 4,
+                    "text_uthmani": "وَلَهُمْ"
+                },
+                {
+                    "id": 27542,
+                    "line_number": 4,
+                    "text_uthmani": "فِيهَآ"
+                },
+                {
+                    "id": 27543,
+                    "line_number": 4,
+                    "text_uthmani": "أَزْوَٰجٌۭ"
+                },
+                {
+                    "id": 27544,
+                    "line_number": 4,
+                    "text_uthmani": "مُّطَهَّرَةٌۭ ۖ"
+                },
+                {
+                    "id": 27546,
+                    "line_number": 4,
+                    "text_uthmani": "وَهُمْ"
+                },
+                {
+                    "id": 27547,
+                    "line_number": 4,
+                    "text_uthmani": "فِيهَا"
+                },
+                {
+                    "id": 27548,
+                    "line_number": 4,
+                    "text_uthmani": "خَـٰلِدُونَ"
+                },
+                {
+                    "id": 27549,
+                    "line_number": 4,
+                    "text_uthmani": "٢٥"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "verse_key": "2:26",
+            "chapter_id": 2,
+            "words": [
+                {
+                    "id": 28575,
+                    "line_number": 5,
+                    "text_uthmani": "۞ إِنَّ"
+                },
+                {
+                    "id": 28576,
+                    "line_number": 5,
+                    "text_uthmani": "ٱللَّهَ"
+                },
+                {
+                    "id": 28577,
+                    "line_number": 5,
+                    "text_uthmani": "لَا"
+                },
+                {
+                    "id": 28578,
+                    "line_number": 5,
+                    "text_uthmani": "يَسْتَحْىِۦٓ"
+                },
+                {
+                    "id": 28579,
+                    "line_number": 5,
+                    "text_uthmani": "أَن"
+                },
+                {
+                    "id": 28580,
+                    "line_number": 5,
+                    "text_uthmani": "يَضْرِبَ"
+                },
+                {
+                    "id": 28581,
+                    "line_number": 5,
+                    "text_uthmani": "مَثَلًۭا"
+                },
+                {
+                    "id": 28582,
+                    "line_number": 5,
+                    "text_uthmani": "مَّا"
+                },
+                {
+                    "id": 28583,
+                    "line_number": 5,
+                    "text_uthmani": "بَعُوضَةًۭ"
+                },
+                {
+                    "id": 28584,
+                    "line_number": 5,
+                    "text_uthmani": "فَمَا"
+                },
+                {
+                    "id": 28585,
+                    "line_number": 6,
+                    "text_uthmani": "فَوْقَهَا ۚ"
+                },
+                {
+                    "id": 28587,
+                    "line_number": 6,
+                    "text_uthmani": "فَأَمَّا"
+                },
+                {
+                    "id": 28588,
+                    "line_number": 6,
+                    "text_uthmani": "ٱلَّذِينَ"
+                },
+                {
+                    "id": 28589,
+                    "line_number": 6,
+                    "text_uthmani": "ءَامَنُوا۟"
+                },
+                {
+                    "id": 28590,
+                    "line_number": 6,
+                    "text_uthmani": "فَيَعْلَمُونَ"
+                },
+                {
+                    "id": 28591,
+                    "line_number": 6,
+                    "text_uthmani": "أَنَّهُ"
+                },
+                {
+                    "id": 28592,
+                    "line_number": 6,
+                    "text_uthmani": "ٱلْحَقُّ"
+                },
+                {
+                    "id": 28593,
+                    "line_number": 6,
+                    "text_uthmani": "مِن"
+                },
+                {
+                    "id": 28594,
+                    "line_number": 7,
+                    "text_uthmani": "رَّبِّهِمْ ۖ"
+                },
+                {
+                    "id": 28596,
+                    "line_number": 7,
+                    "text_uthmani": "وَأَمَّا"
+                },
+                {
+                    "id": 28597,
+                    "line_number": 7,
+                    "text_uthmani": "ٱلَّذِينَ"
+                },
+                {
+                    "id": 28598,
+                    "line_number": 7,
+                    "text_uthmani": "كَفَرُوا۟"
+                },
+                {
+                    "id": 28599,
+                    "line_number": 7,
+                    "text_uthmani": "فَيَقُولُونَ"
+                },
+                {
+                    "id": 28600,
+                    "line_number": 7,
+                    "text_uthmani": "مَاذَآ"
+                },
+                {
+                    "id": 28601,
+                    "line_number": 7,
+                    "text_uthmani": "أَرَادَ"
+                },
+                {
+                    "id": 28602,
+                    "line_number": 7,
+                    "text_uthmani": "ٱللَّهُ"
+                },
+                {
+                    "id": 28603,
+                    "line_number": 8,
+                    "text_uthmani": "بِهَـٰذَا"
+                },
+                {
+                    "id": 28604,
+                    "line_number": 8,
+                    "text_uthmani": "مَثَلًۭا ۘ"
+                },
+                {
+                    "id": 28606,
+                    "line_number": 8,
+                    "text_uthmani": "يُضِلُّ"
+                },
+                {
+                    "id": 28607,
+                    "line_number": 8,
+                    "text_uthmani": "بِهِۦ"
+                },
+                {
+                    "id": 28608,
+                    "line_number": 8,
+                    "text_uthmani": "كَثِيرًۭا"
+                },
+                {
+                    "id": 28609,
+                    "line_number": 8,
+                    "text_uthmani": "وَيَهْدِى"
+                },
+                {
+                    "id": 28610,
+                    "line_number": 8,
+                    "text_uthmani": "بِهِۦ"
+                },
+                {
+                    "id": 28611,
+                    "line_number": 8,
+                    "text_uthmani": "كَثِيرًۭا ۚ"
+                },
+                {
+                    "id": 28613,
+                    "line_number": 9,
+                    "text_uthmani": "وَمَا"
+                },
+                {
+                    "id": 28614,
+                    "line_number": 9,
+                    "text_uthmani": "يُضِلُّ"
+                },
+                {
+                    "id": 28615,
+                    "line_number": 9,
+                    "text_uthmani": "بِهِۦٓ"
+                },
+                {
+                    "id": 28616,
+                    "line_number": 9,
+                    "text_uthmani": "إِلَّا"
+                },
+                {
+                    "id": 28617,
+                    "line_number": 9,
+                    "text_uthmani": "ٱلْفَـٰسِقِينَ"
+                },
+                {
+                    "id": 28618,
+                    "line_number": 9,
+                    "text_uthmani": "٢٦"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "verse_key": "2:27",
+            "chapter_id": 2,
+            "words": [
+                {
+                    "id": 30183,
+                    "line_number": 9,
+                    "text_uthmani": "ٱلَّذِينَ"
+                },
+                {
+                    "id": 30184,
+                    "line_number": 9,
+                    "text_uthmani": "يَنقُضُونَ"
+                },
+                {
+                    "id": 30185,
+                    "line_number": 9,
+                    "text_uthmani": "عَهْدَ"
+                },
+                {
+                    "id": 30186,
+                    "line_number": 10,
+                    "text_uthmani": "ٱللَّهِ"
+                },
+                {
+                    "id": 30187,
+                    "line_number": 10,
+                    "text_uthmani": "مِنۢ"
+                },
+                {
+                    "id": 30188,
+                    "line_number": 10,
+                    "text_uthmani": "بَعْدِ"
+                },
+                {
+                    "id": 30189,
+                    "line_number": 10,
+                    "text_uthmani": "مِيثَـٰقِهِۦ"
+                },
+                {
+                    "id": 30190,
+                    "line_number": 10,
+                    "text_uthmani": "وَيَقْطَعُونَ"
+                },
+                {
+                    "id": 30191,
+                    "line_number": 10,
+                    "text_uthmani": "مَآ"
+                },
+                {
+                    "id": 30192,
+                    "line_number": 10,
+                    "text_uthmani": "أَمَرَ"
+                },
+                {
+                    "id": 30193,
+                    "line_number": 10,
+                    "text_uthmani": "ٱللَّهُ"
+                },
+                {
+                    "id": 30194,
+                    "line_number": 10,
+                    "text_uthmani": "بِهِۦٓ"
+                },
+                {
+                    "id": 30195,
+                    "line_number": 10,
+                    "text_uthmani": "أَن"
+                },
+                {
+                    "id": 30196,
+                    "line_number": 10,
+                    "text_uthmani": "يُوصَلَ"
+                },
+                {
+                    "id": 30197,
+                    "line_number": 11,
+                    "text_uthmani": "وَيُفْسِدُونَ"
+                },
+                {
+                    "id": 30198,
+                    "line_number": 11,
+                    "text_uthmani": "فِى"
+                },
+                {
+                    "id": 30199,
+                    "line_number": 11,
+                    "text_uthmani": "ٱلْأَرْضِ ۚ"
+                },
+                {
+                    "id": 30201,
+                    "line_number": 11,
+                    "text_uthmani": "أُو۟لَـٰٓئِكَ"
+                },
+                {
+                    "id": 30202,
+                    "line_number": 11,
+                    "text_uthmani": "هُمُ"
+                },
+                {
+                    "id": 30203,
+                    "line_number": 11,
+                    "text_uthmani": "ٱلْخَـٰسِرُونَ"
+                },
+                {
+                    "id": 30204,
+                    "line_number": 11,
+                    "text_uthmani": "٢٧"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "verse_key": "2:28",
+            "chapter_id": 2,
+            "words": [
+                {
+                    "id": 30618,
+                    "line_number": 12,
+                    "text_uthmani": "كَيْفَ"
+                },
+                {
+                    "id": 30619,
+                    "line_number": 12,
+                    "text_uthmani": "تَكْفُرُونَ"
+                },
+                {
+                    "id": 30620,
+                    "line_number": 12,
+                    "text_uthmani": "بِٱللَّهِ"
+                },
+                {
+                    "id": 30621,
+                    "line_number": 12,
+                    "text_uthmani": "وَكُنتُمْ"
+                },
+                {
+                    "id": 30622,
+                    "line_number": 12,
+                    "text_uthmani": "أَمْوَٰتًۭا"
+                },
+                {
+                    "id": 30623,
+                    "line_number": 12,
+                    "text_uthmani": "فَأَحْيَـٰكُمْ ۖ"
+                },
+                {
+                    "id": 30625,
+                    "line_number": 13,
+                    "text_uthmani": "ثُمَّ"
+                },
+                {
+                    "id": 30626,
+                    "line_number": 13,
+                    "text_uthmani": "يُمِيتُكُمْ"
+                },
+                {
+                    "id": 30627,
+                    "line_number": 13,
+                    "text_uthmani": "ثُمَّ"
+                },
+                {
+                    "id": 30628,
+                    "line_number": 13,
+                    "text_uthmani": "يُحْيِيكُمْ"
+                },
+                {
+                    "id": 30629,
+                    "line_number": 13,
+                    "text_uthmani": "ثُمَّ"
+                },
+                {
+                    "id": 30630,
+                    "line_number": 13,
+                    "text_uthmani": "إِلَيْهِ"
+                },
+                {
+                    "id": 30631,
+                    "line_number": 13,
+                    "text_uthmani": "تُرْجَعُونَ"
+                },
+                {
+                    "id": 30632,
+                    "line_number": 13,
+                    "text_uthmani": "٢٨"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "verse_key": "2:29",
+            "chapter_id": 2,
+            "words": [
+                {
+                    "id": 31743,
+                    "line_number": 13,
+                    "text_uthmani": "هُوَ"
+                },
+                {
+                    "id": 31744,
+                    "line_number": 14,
+                    "text_uthmani": "ٱلَّذِى"
+                },
+                {
+                    "id": 31745,
+                    "line_number": 14,
+                    "text_uthmani": "خَلَقَ"
+                },
+                {
+                    "id": 31746,
+                    "line_number": 14,
+                    "text_uthmani": "لَكُم"
+                },
+                {
+                    "id": 31747,
+                    "line_number": 14,
+                    "text_uthmani": "مَّا"
+                },
+                {
+                    "id": 31748,
+                    "line_number": 14,
+                    "text_uthmani": "فِى"
+                },
+                {
+                    "id": 31749,
+                    "line_number": 14,
+                    "text_uthmani": "ٱلْأَرْضِ"
+                },
+                {
+                    "id": 31750,
+                    "line_number": 14,
+                    "text_uthmani": "جَمِيعًۭا"
+                },
+                {
+                    "id": 31751,
+                    "line_number": 14,
+                    "text_uthmani": "ثُمَّ"
+                },
+                {
+                    "id": 31752,
+                    "line_number": 14,
+                    "text_uthmani": "ٱسْتَوَىٰٓ"
+                },
+                {
+                    "id": 31753,
+                    "line_number": 14,
+                    "text_uthmani": "إِلَى"
+                },
+                {
+                    "id": 31754,
+                    "line_number": 15,
+                    "text_uthmani": "ٱلسَّمَآءِ"
+                },
+                {
+                    "id": 31755,
+                    "line_number": 15,
+                    "text_uthmani": "فَسَوَّىٰهُنَّ"
+                },
+                {
+                    "id": 31756,
+                    "line_number": 15,
+                    "text_uthmani": "سَبْعَ"
+                },
+                {
+                    "id": 31757,
+                    "line_number": 15,
+                    "text_uthmani": "سَمَـٰوَٰتٍۢ ۚ"
+                },
+                {
+                    "id": 31759,
+                    "line_number": 15,
+                    "text_uthmani": "وَهُوَ"
+                },
+                {
+                    "id": 31760,
+                    "line_number": 15,
+                    "text_uthmani": "بِكُلِّ"
+                },
+                {
+                    "id": 31761,
+                    "line_number": 15,
+                    "text_uthmani": "شَىْءٍ"
+                },
+                {
+                    "id": 31762,
+                    "line_number": 15,
+                    "text_uthmani": "عَلِيمٌۭ"
+                },
+                {
+                    "id": 31763,
+                    "line_number": 15,
+                    "text_uthmani": "٢٩"
+                }
+            ]
+        }
+    ]
+}
